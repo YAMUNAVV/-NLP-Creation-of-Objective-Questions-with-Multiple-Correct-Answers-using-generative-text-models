@@ -1,4 +1,4 @@
-# NLP-Creation-of-Objective-Questions-with-Multiple-Correct-Answers-using-generative-text-models
+#Internship- NLP-Creation-of-Objective-Questions-with-Multiple-Correct-Answers-using-generative-text-models
 The goal of this internship assignment is to test your proficiency in natural language
 processing. You will be tasked with developing a solution that can automatically generate
 objective questions with multiple correct answers based on a given chapter from a subject.
